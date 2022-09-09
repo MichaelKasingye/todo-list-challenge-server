@@ -1,7 +1,7 @@
 # todo-list-challenge-server
 Todo list challenge server in Express js and Mongo db
 
-The Todo-list-challenge-server is the server support to the Todo-list-challenge-client [client](https://github.com/MichaelKasingye/todo-listlchallenge-client) to view site.
+The Todo-list-challenge-server is the server support to the Todo-list-challenge-client [client](https://github.com/MichaelKasingye/todo-listlchallenge-client) to visit gitHub repository.
 
 ### End points
 These end points carry out these functions.

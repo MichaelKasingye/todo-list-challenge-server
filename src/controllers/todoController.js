@@ -54,8 +54,7 @@ export const updateATodoStatus = async (req, res) => {
       });
     })
     .catch((err) => {
-      console.log(err);
-      res.status(500).json({
+        res.status(500).json({
         error: err,
         message: `Sorry something went wrong`,
       });
